@@ -1,7 +1,11 @@
 <!doctype html>
 <html>
 <head>
+<<<<<<< HEAD
 	<title>Genetic Testing Project</title>
+=======
+	<title>Responsive App Page</title>
+>>>>>>> 27e5aa1ea12b8593b3ff792e2cf39fddc382ec8e
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/style.css">
